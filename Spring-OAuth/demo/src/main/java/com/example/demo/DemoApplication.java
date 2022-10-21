@@ -1,7 +1,5 @@
 package com.example.demo;
 
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.handler;
-
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
